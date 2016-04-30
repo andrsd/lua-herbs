@@ -1,0 +1,5 @@
+-- WiFi
+WIFI_SSID = "Name of your network"
+WIFI_PASSWD = "Password to your WiFi network"
+-- unique key given by IFTTT maker
+MAKER_KEY = ""
